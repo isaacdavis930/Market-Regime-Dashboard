@@ -1,4 +1,4 @@
-# QQQ Volatility Regime Detection & Automated Trading Alerts
+# QQQ Volatility Regime Detection & Automated Email Trading Alerts
 
   This is an automated system that monitors QQQ volatility regimes using Hidden Markov Models and machine learning. Every trading day at 4:30 PM ET, it analyzes market data, detects the current volatility regime, forecasts potential regime shifts, and emails you a formatted report with position sizing recommendations.
 
