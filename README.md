@@ -187,7 +187,12 @@ The system sends a formatted HTML email containing:
 - Early warning signal (10-day forecast)
 - Risk level assessment
 - Key technical metrics (ATR, volume, momentum, SMA distance)
-- Position sizing recommendation
+
+  Here is what it will actually look like when it runs:
+
+  <img width="332" height="451" alt="Screenshot 2025-12-17 at 11 28 31 AM" src="https://github.com/user-attachments/assets/70297611-ca72-4f76-a314-7c8a38ab1347" />
+
+  
 
 ---
 
